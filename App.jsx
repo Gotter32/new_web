@@ -1,14 +1,17 @@
-import './App.css'
+import './components/style.css'
 import Buttons from './components/Buttons'
-import List_labs from './components/list_labs'
+import Listlabs from './components/Listlabs'
+import Header from './components/Header'
+import Footer from './components/Footer'
 
 function App() {
   return (
     <div>
       <Header />
         <Buttons label="что-то" onClick={() => alert ("Hello world!")} />
-        <List_labs />
+        <Listlabs />
         <Footer />
+        
     </div>
   )
 }
