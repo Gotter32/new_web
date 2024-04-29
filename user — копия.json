@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "eab0",
+      "surname": "tgtg",
+      "name": "Эльф",
+      "email": "444@m.u",
+      "password": "123"
+    },
+    {
+      "id": "5188",
+      "surname": "tgtgtg",
+      "name": "Тест",
+      "email": "fg@mtl.ty",
+      "password": "344"
+    },
+    {
+      "id": "a519",
+      "surname": "grgrgrg",
+      "name": "ddddd",
+      "email": "gthth@hn.y",
+      "password": "567"
+    },
+    {
+      "id": "6fe0",
+      "surname": "йцук",
+      "name": "енгш",
+      "email": "1@ma.t",
+      "password": "123"
+    },
+    {
+      "id": "84b2",
+      "surname": "asdf",
+      "name": "ghjk",
+      "email": "2@ma.t",
+      "password": "222"
+    },
+    {
+      "id": "606b",
+      "surname": "фывапп",
+      "name": "апро",
+      "email": "3@ma.t",
+      "password": "222"
+    }
+  ]
+}
