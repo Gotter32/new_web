@@ -1,0 +1,51 @@
+#root {
+  text-align: center;
+
+}
+
+.main_page {
+  margin-top: 30px;
+  display: flex;
+  height: 700px;
+  justify-content: center ;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+body.light {
+  --bg-color: #ffffffAA;
+  background-color: var(--bg-color);
+  color: rgb(22, 32, 168);
+  background-image: url("images/pexels-melchor-gama-631342.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+body.light a{
+  color: rgb(22, 32, 168);
+}
+body.light a:hover {
+  color: #41ca1f;
+}
+
+body.dark {
+  --bg-color: #363446CC;
+  background-color: var(--bg-color);
+  color: #9a9fe6;
+  background-image: url("images/pexels-min-an-713664.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+body.dark a{
+  color: #9a9fe6;
+}
+body.dark a:hover {
+  color: #d378bc;
+}

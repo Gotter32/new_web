@@ -1,0 +1,30 @@
+ [
+    {
+      "id": "84b2",
+      "surname": "asdf",
+      "name": "ghjk",
+      "email": "2@ma.t",
+      "password": "222"
+    },
+    {
+      "id": "606b",
+      "surname": "фывапп",
+      "name": "апро",
+      "email": "3@ma.t",
+      "password": "222"
+    },
+    {
+      "id": "15c9",
+      "surname": "Тестим",
+      "name": "axios",
+      "email": "ax@g.ru",
+      "password": "9999"
+    },
+    {
+      "id": "48ca",
+      "surname": "Новый",
+      "name": "Тестовый",
+      "email": "hfhd@lkg.ru",
+      "password": "gbgbgb"
+    }
+  ]
